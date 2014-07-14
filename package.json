@@ -1,0 +1,27 @@
+{
+  "name": "hapi-winston",
+  "version": "0.0.1",
+  "description": "Winston logging hapi plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:amaurybrisou/hapi-winston.git"
+  },
+  "keywords": [
+    "hapi",
+    "winston",
+    "logging",
+    "plugin"
+  ],
+  "author": "Amaury Brisou",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/amaurybrisou/hapi-winston/issues"
+  },
+  "dependencies": {
+    "winston": "~0.7.3"
+  }
+}
